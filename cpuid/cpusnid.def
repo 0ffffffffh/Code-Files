@@ -1,0 +1,5 @@
+LIBRARY	"cpusnid"
+
+EXPORTS
+	GetProcessorSerialNumber @1
+	GetProcessorID @2
